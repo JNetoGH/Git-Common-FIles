@@ -24,7 +24,7 @@
 /[Aa]ssets/Plugins/Editor/JetBrains*
 
 # Mac Files
-.DS_Store
+*.DS_Store
 
 # Visual Studio and Jetbrains cache directory
 .vs/
